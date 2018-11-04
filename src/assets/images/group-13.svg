@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169" height="235" viewBox="0 0 169 235">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <path fill="#555" stroke="#555" d="M84.059 219L152 131H15z"/>
+        <circle cx="83.5" cy="83.5" r="83.5" fill="#FFF" stroke="#555"/>
+        <text fill="#FFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing=".081">
+            <tspan x="70.075" y="193">01</tspan>
+        </text>
+        <path stroke="#555" stroke-linecap="square" stroke-width="4" d="M65 232h37"/>
+        <g fill-rule="nonzero">
+            <path fill="#555" d="M56 116.228S55.931 118 57.637 118c2.122 0 19.69-.023 19.69-.023l.028-16.377s-.277-2.7 2.304-2.7h8.17c3.053 0 2.865 2.7 2.865 2.7l-.035 16.324h19.273c2.166 0 2.067-2.207 2.067-2.207V85.525L84.837 61 56 85.525v30.703z"/>
+            <path fill="#E4375C" d="M44 82.939s2.508 4.638 7.976 0l32.681-27.747 30.641 27.574c6.33 4.582 8.702 0 8.702 0L84.657 47 44 82.939zM116 56h-8l.033 8.84L116 71z"/>
+        </g>
+    </g>
+</svg>

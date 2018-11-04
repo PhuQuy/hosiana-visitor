@@ -1,0 +1,300 @@
+// display flex was causing errors
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+    display: block;
+}
+
+.carousel {
+    .carousel-inner {
+        box-shadow: $box-shadow-raised;
+    }
+
+    .now-ui-icons {
+        font-size: 2em;
+    }
+}
+
+ngb-carousel {
+    &:focus {
+        outline: none;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        width: 12px;
+        height: 12px;
+    }
+}
+
+.middle-card {
+    .ngucarouselPointDefault {
+        display: none;
+    }
+
+    .close {
+        display: none;
+    }
+}
+
+ngx-gallery-thumbnails {
+    a.ngx-gallery-thumbnail {
+        background-size: cover;
+        border-radius: 2px;
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
+        opacity: 0.9;
+
+        &:hover {
+            opacity: 1;
+        }
+    }
+
+    .ngx-gallery-thumbnails-wrapper {
+        .ngx-gallery-thumbnails-lg {
+            a {
+                width: 65% !important;
+                height: 100% !important;
+            }
+        }
+
+        .ngx-gallery-thumbnails-sm {
+            margin-left: 66% !important;
+        }
+    }
+}
+
+ngx-gallery-thumbnails {
+    ngx-gallery-arrows {
+        .ngx-gallery-arrow {
+            background-color: rgba(0, 0, 0, 0.6) !important;
+        }
+    }
+}
+
+ngx-gallery-thumbnails {
+    .ngx-gallery-arrow-left {
+        .ngx-gallery-arrow {
+            left: 0px !important;
+        }
+    }
+
+    ngx-gallery-arrow-right {
+        .ngx-gallery-arrow {
+            right: 0px !important;
+        }
+    }
+}
+
+ngx-gallery-arrows {
+    .ngx-gallery-arrow-wrapper {
+        .ngx-gallery-arrow {
+            width: 50px !important;
+            height: 50px !important;
+            background-color: rgba(0, 0, 0, 0.6);
+
+            .ngx-gallery-icon-content {
+                margin-top: 12px;
+
+                &.fa-chevron-left {
+                    margin-left: 15px;
+                }
+
+                &.fa-chevron-right {
+                    margin-left: 18px;
+                }
+            }
+        }
+    }
+}
+
+.ngx-gallery-preview-wrapper .ngx-gallery-preview-img-wrapper .ngx-gallery-preview-tab .ngx-gallery-preview-menu .ngx-gallery-preview-menu-navbar li {
+    margin-bottom: -1px !important;
+}
+
+.blog-slider {
+    gocodee-gallery {
+        height: 496px !important;
+        position: relative;
+
+        ngx-gallery-image {
+            height: 100% !important;
+
+            .ngx-gallery-active {
+                z-index: 1;
+            }
+        }
+    }
+
+    ngu-carousel {
+        .ngucarouselPointDefault {
+            position: absolute;
+            bottom: 0px;
+            width: 100%;
+        }
+
+        .ngucarouselPointDefault .ngucarouselPoint li {
+            background: white !important;
+            padding: 2px !important;
+
+            &.active {
+                background: #e4375c !important;
+            }
+        }
+    }
+
+    ngx-gallery-thumbnails-mobile {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        position: absolute;
+        z-index: 1001;
+        height: 56px !important;
+        width: 30%;
+        bottom: 10px;
+        right: 10px;
+
+        ngx-gallery-arrows {
+            display: none;
+        }
+    }
+}
+
+.controls {
+    position: absolute;
+    margin: auto;
+    width: 50px;
+    height: 40px;
+    box-shadow: 1px 2px 10px -1px rgba(0, 0, 0, .3);
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    bottom: 50%;
+
+    &.leftRs {
+        left: 0;
+    }
+
+    &.rightRs {
+        right: 0;
+    }
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+}
+
+.map-api {
+    .controls {
+        width: 10px;
+        height: 40px;
+        box-shadow: none;
+        border-radius: 50%;
+        background-color: transparent;
+        color: black;
+        bottom: 50%;
+        padding: 11px 0px;
+
+        &:active {
+            background-color: transparent !important;
+        }
+
+        &.leftRs {
+            left: 0px;
+            top: 19px;
+        }
+
+        &.rightRs {
+            right: -12px;
+            top: 19px;
+        }
+
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .ngx-gallery-arrow-left {
+        .ngx-gallery-arrow {
+            left: 10px !important;
+        }
+    }
+
+    .ngx-gallery-arrow-right {
+        .ngx-gallery-arrow {
+            right: -15px !important;
+        }
+    }
+}
+
+app-listing ngx-gallery-gocodee {
+    .ngx-gallery-arrow-right .ngx-gallery-arrow {
+        right: 0px !important;
+    }
+}
+
+.ngx-gallery-thumbnail {
+    video {
+        object-fit: fill;
+        height: 100%;
+    }
+}
+
+.home-new-listing {
+    .apartment-body {
+        min-height: 170px !important;
+    }
+}
+
+.controls {
+    background-color: transparent !important;
+    box-shadow: none !important;
+
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: transparent !important;
+        box-shadow: none !important;
+    }
+
+    svg {
+        top: 0;
+        position: absolute;
+        left: 8px;
+    }
+
+}
+
+.leftRs {
+    transform: rotate(180deg);
+}
+
+.ngx-gallery-arrow-right .ngx-gallery-arrow {
+    right: 0px !important;
+}
+
+ngx-gallery-preview {
+    ngx-gallery-arrows .ngx-gallery-arrow-wrapper .ngx-gallery-arrow {
+        background: transparent;
+    }
+
+    .ngx-gallery-arrow-left .ngx-gallery-arrow {
+        left: 0px;
+    }
+}
+
+.ngx-gallery-preview-wrapper {
+    background: rgba(0, 0, 0, 0.75) !important;
+
+}
+
+.ngx-gallery-preview-agent-navbar {
+    display: none !important;
+}
+
+.ngx-gallery-preview-wrapper .ngx-gallery-preview-img-wrapper .ngx-gallery-preview-tab .ngx-gallery-preview-img-list .row {
+    margin-bottom: 10px;
+}
+
+.slider-content {
+    gocodee-gallery {
+        height: 460px !important;
+    }
+}

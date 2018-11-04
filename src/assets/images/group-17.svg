@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169" height="235" viewBox="0 0 169 235">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <path fill="#555" stroke="#555" d="M84.059 219L152 131H15z"/>
+        <circle cx="83.5" cy="83.5" r="83.5" fill="#FFF" stroke="#555"/>
+        <text fill="#FFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing=".081">
+            <tspan x="70.075" y="193">04</tspan>
+        </text>
+        <path stroke="#555" stroke-linecap="square" stroke-width="4" d="M65 232h37"/>
+        <path fill="#555" fill-rule="nonzero" d="M116.667 108.875c4.491 0 8.166-3.656 8.166-8.125V60.125c0-4.469-3.675-8.125-8.166-8.125H51.333c-4.491 0-8.166 3.656-8.166 8.125v40.625c0 4.469 3.675 8.125 8.166 8.125H35V117h98v-8.125h-16.333zm-65.334-48.75h65.334v40.625H51.333V60.125z"/>
+        <g fill="#E4375C" fill-rule="nonzero">
+            <path d="M72 94.285s-.028.715.672.715c.872 0 8.087-.01 8.087-.01l.012-6.608s-.114-1.089.946-1.089h3.356c1.253 0 1.176 1.09 1.176 1.09l-.014 6.586h7.916c.89 0 .849-.89.849-.89V81.896L83.844 72 72 81.896v12.389z"/>
+            <path d="M67 81.132s1.034 1.953 3.29 0l13.481-11.683 12.64 11.61c2.61 1.93 3.589 0 3.589 0L83.771 66 67 81.132zM96 70h-3l.012 3.536L96 76z"/>
+        </g>
+    </g>
+</svg>

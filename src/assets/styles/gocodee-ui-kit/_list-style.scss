@@ -1,0 +1,45 @@
+.custom-list-style {
+    ul {
+        margin-top: -10px;
+
+        &.blue-style {
+            li::before {
+                color: #3acaaa !important;
+            }
+        }
+
+        li {
+            padding-top: 0.5em;
+            padding-bottom: 0.5em;
+            list-style-type: none;
+            position: relative;
+            padding-left: 15px;
+            line-height: 20px;
+
+            &::before {
+                content: "•";
+                font-size: 25px;
+                color: #e4375c;
+                position: absolute;
+                left: 0;
+                top: 7px;
+            }
+        }
+    }
+}
+
+.about-us {
+    .custom-list-style {
+        ul {
+            li {
+                padding-top: 0em;
+                padding-bottom: 0em;
+                line-height: 24px;
+
+                &::before {
+                    top: 0px;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,742 @@
+{
+    "routing_blog": "blog",
+    "routing_feed": "feed",
+    "routing_buy": "properties-for-sale",
+    "routing_rent": "properties-for-rent",
+    "routing_swap": "properties-for-swap",
+    "routing_buy_townhouse": "townhouse-for-sale",
+    "routing_rent_townhouse": "townhouse-for-rent",
+    "routing_swap_townhouse": "townhouse-for-swap",
+    "routing_commercial": "commercial-properties",
+    "routing_project": "projects",
+    "routing_about": "about-us",
+    "routing_about_hos": "about-hosiana",
+    "routing_contact_us": "contact-us",
+    "routing_apply_job": "apply-job",
+    "routing_career": "career",
+    "routing_faq": "faq",
+    "routing_about_agency": "about-agency",
+    "routing_about_broker": "about-broker",
+    "routing_about_homeservice": "about-homeservice",
+    "routing_about_project_developer": "about-project-developer",
+    "routing_term_of_use": "term-of-use",
+    "routing_privacy_policy": "privacy-policy",
+    "routing_operation_regular": "operational-regulations",
+    "routing_dispute": "dispute-resolution-mechanism",
+    "register_bo_cong_thuong": "setting/register-bo-cong-thuong",
+    "routing_faq_broker": "broker",
+    "routing_faq_project": "project",
+    "routing_faq_agency": "agency",
+    "routing_faq_homeservice": "homeservice",
+    "routing_listing": "listing",
+    "routing_agency" : "agency",
+    "routing_home_service": "home-service",
+    "routing_reset_pass": "reset",
+    "routing_buy_commercial": "commercial-properties-for-sale",
+    "routing_rent_commercial": "commercial-properties-for-rent",
+
+    "home": {
+        "title1": "Find your home",
+        "title2": "with certified professionals",
+        "buy": "Buy",
+        "rent": "Rent",
+        "swap": "Swap",
+        "search_placeholder": "Enter City, District or Project Name",
+        "pro_title": "You are a professional? List your property with Hosiana PRO",
+        "pro_get_started": "Get started",
+        "new_sale_to_market": "New properties for sale",
+        "new_rent_to_market": "New properties for rent",
+        "see_all": "See all",
+        "featured_projects": "Featured Projects",
+        "discounted_properties": "Discounted Properties",
+        "affordable_homes": "Affordable Homes",
+
+        "how_title": "How we select properties?",
+        "how_des": "Hosiana is much more than a marketplace!",
+        "how_step1": "Professionals request an account on Hosiana PRO",
+        "how_step2": "Our legal team rigorously vets each Pro’s legal status",
+        "how_step3": "Customer care reviews and harmonizes the PRO’s profile to comply with our internal policies",
+        "how_step4": "Approved PRO are registered and begin posting listings",
+        "how_step5": "Quality control team checks every listing before being published",
+        "how_learn_more": "Learn more",
+
+        "tips_news": "Tips & News",
+
+        "properties_for_sale": "Properties for sale",
+        "properties_for_rent": "Properties for rent"
+    },
+    
+    "header": {
+        "feeds": "Feeds",
+        "buy": "Buy",
+        "rent": "Rent",
+        "swap": "Swap",
+        "commercial": "Commercial",
+        "project": "Project",
+        "agency": "Find An Agency",
+        "home_services": "Home Services",
+        "blog": "Blog",
+        "more": "More",
+        "post_listing": "Post Listing",
+        "login": "Login",
+        "sign_up": "Sign Up"
+
+    },
+
+    "feeds": {
+        "filters": "Filters",
+        "filter_agency": "Agency",
+        "filter_city": "City",
+        "filter_service_type": "Service Type",
+        "filter_property_type": "Property Type",
+        "filter_project": "Project",
+        "filter_price": "Price",
+        "suggestion": "Suggestion",
+
+        "favorite": "Favorite",
+        "favorties": "Favorites",
+        "comment": "Comment",
+        "comments": "Comments",
+        "follow": "Follow",
+
+        "call": "Call",
+        "message": "Message",
+
+        "rating": "Rating",
+        "vote": "vote",
+        "votes": "votes",
+        "for_sale": "For Sale",
+        "for_rent": "For Rent",
+
+        "see_more": "See more",
+        "see_less": "Show less",
+        "older_blog": "Older blogs",
+
+        "agency": "Agency",
+        "home_service": "Home Service",
+        "view_listings": "View Listings",
+
+
+        "agency_to_follow": "Agency To Follow",
+        "home_services_to_follow": "Home Services To Follow",
+        "project_to_follow": "Project To Follow"
+    },
+
+    "login": {
+        "login_with_account":"Log In to your account",
+        "login_description":"Access to your favorite listings, matching alerts, discouted properties alerts and more",
+        "remember_me":"Remember me",
+        "forgot_password":"Forgot password?",
+        "login_button":"Log in",
+        "no_account_signup_here":"No Account? Sign Up Here",
+        "login_with_facebook":"Or, Log In with Facebook",
+        "login_title":"You are a professional?",
+        "login_description2":"Manage your profile, leads, listings, projects and more",
+        "pro_login_button":"Pro Log In",
+        "no_pro_account_signup_here":"No professional account? Sign up here",
+        "welcome_to":"Welcome to",
+        "signup_to_get_property":"Sign up to get property updates, home tips and projects information",
+        "placeholder_email":"Email",
+        "placeholder_password":"Password",
+        "check_email":"Please enter a valid email address",
+        "check_password":"Password is required",
+        "send_tips":"Send me news, tips from hosiana.com",
+        "by_creating_account":"By creating an account you agree to our",
+        "terms_of_use":"Terms of Use",
+        "and":"and",
+        "private_policy":"Privacy Policy",
+        "already_register":"Already registered? Log in here",
+        "signup":"Sign up",
+        "register_login":"Registered? Log In"
+    },
+
+    "search_common": {
+        "more_filters": "More Filters",
+        "clear": "Clear",
+        "save_search": "Save This Search",
+        "view_map": "View Map",
+
+
+        "sort_by": "Sort By",
+        "sort_by_name": "Name",
+        "sort_by_address": "Address",
+
+
+        "listing": "listing",
+        "listings": "listings",
+
+        "agency": "Agency",
+        "agencies": "Agencies",
+
+        "project": "project",
+        "projects": "projects",
+
+        "home_service": "Home service",
+        "home_services": "Home services",
+
+
+        "prev": "Prev",
+        "next": "Next",
+        "show": "Show",
+        "results_per_page": "results per page",
+
+        "of": "of",
+        "result": "result",
+        "results": "results"
+    },
+
+    "search_listing": {
+
+        "city_district_project": "Enter City, District or Project Name",
+        "price_range": "Price Range",
+        "min_price": "Min Price",
+        "max_price": "Max Price",
+        "any": "Any",
+        "beds": "All Beds",
+        "home_types": "Home Types",
+        "home_types_townhouse": "Townhouse",
+        "home_types_apartment": "Apartment",
+        "home_types_villa": "Villa",
+        "home_types_land": "Land",
+        "service_type": "Type",
+        "service_type_buy": "Buy",
+        "service_type_rent": "Rent",
+        "service_type_swap": "Swap",
+        "office": "Office",
+        "factory": "Factory",
+        "warehouse" : "Kho bãi",
+        "industrial_land": "Đất công nghiệp",
+        "shop": "Shop",
+        "hotel": "Hotel",
+        "restaurant_bar": "Restaurant / Bar",
+        "co_working_space": "Co-working Space",
+        "other": "Other",
+        "lowest_price": "Min Price",
+        "highest_price": "Max Price",
+        "no_record": "There is no information here. Please waiting us for updating!",
+
+        "new_to_market": "New to Market",
+        "discounted_properties": "Discounted Properties",
+        "property_area": "Property Area",
+        "property_area_min": "Min",
+        "property_area_max": "Max",
+        "land_area": "Land Area",
+        "land_area_min": "Min",
+        "land_area_max": "Max",
+        "bathrooms": "Bathrooms",
+        "bathrooms_any": "Any",
+        "facilities": "Facilities",
+        "fa_swimming": "Swimming Pool",
+        "fa_jacuzzi": "Jacuzzi",
+        "fa_sauna": "Sauna",
+        "fa_fitness": "Fitness Club",
+        "fa_tennis": "Tennis Club",
+        "fa_badminton": "Badminton",
+        "fa_restaurant": "Restaurant",
+        "fa_cafe": "Cafe",
+        "fa_bar_pub": "Bar/Pub",
+
+
+        "property_types": "Property Types",
+        "property_types_office": "Office",
+        "property_types_warehouse_factory": "Warehouse/Factory",
+        "property_types_shop": "Shop",
+        "property_types_hotel": "Hotel",
+        "property_types_restaurant_bar": "Restaurant/Bar",
+        "property_types_coworking_space": "Co-working Space",
+        "property_types_industrial_land": "Industrial Land",
+        "property_types_": "Industrial Land",
+        "property_types_area": "Area",
+        "property_types_others": "Others",
+
+
+        "sort_newest": "Newest",
+        "sort_price_asc": "Price (Low to High)",
+        "sort_price_desc": "Price (High to Low)",
+        "sort_area_asc": "m² (Low to High)",
+        "sort_area_desc": "m² (High to Low)",
+
+
+        "sale": "Sale",
+        "rent": "Rent",
+        "swap": "Swap",
+
+        "search": "Search",
+        "cancel": "Cancel",
+
+        "receive_notification": "Get the latest news from Hosiana",
+        "email_address": "Email Address:",
+        "register": "Register",
+        "enter_email": "Enter the registration email"
+    },
+
+    "listing_details": {
+
+        "favorite": "Favorite",
+        "notification": "Notification",
+        "noti_successful": "Your notification is well activated. You will be notified by email when we list matching properties.",
+        "share": "Share",
+        "call": "Call",
+        "message": "Message",
+        "view_photos": "View Photos",
+        "photos": "Photos",
+        "photo": "Photo",
+
+        "broker": "Broker",
+        "swap_owner_looking_for": "The Owner is looking for",
+        "swap_property_type": "Property Type",
+        "swap_apartment": "Apartment",
+        "swap_bedrooms": "Bedrooms",
+        "swap_location": "Location",
+        "swap_minimum_area": "Minimum Area",
+        "swap_facilities": "Facilities",
+        "minimum": "Minimum",
+
+
+        "about_this_property": "About This Property",
+        "facilities": "Facilities",
+        "location": "Location",
+        "comments": "Comments",
+        "recently viewed": "Recently Viewed",
+
+
+        "details": "Details",
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "floors": "Floors",
+        "gross_floor_area": "Gross Floor Area",
+        "land_area": "Land Area",
+        "price_m2": "Price / m²",
+        "price_m2_land": "Price / m² (Land)",
+        "furnished": "Furnished",
+        "parking": "Parking",
+        "pets_allowed": "Pet Allowed",
+        "direct_road_access_for_car": "Direct Road Access For Car",
+        "land_type": "Land Type",
+
+        "investment_performance": "Investment Performance",
+        "price": "Price",
+        "management_fee_included": "Management Fee Included",
+        "management_fee": "Management Fee",
+        "deposit": "Deposit",
+        "rental_recorded": "Rental Recorded in Neighborhood",
+        "loan_support": "Loan Support",
+
+        "map_atm": "ATM",
+        "map_cinema": "Cinema",
+        "map_drinks": "Drinks",
+        "map_restaurant": "Restaurants",
+        "map_hospital": "Hospital",
+        "map_dentist": "Dentist",
+        "map_spa": "Spa",
+        "map_sport": "Sport",
+        "map_supermarket": "Supermarket",
+        "map_school": "School",
+
+        "onwer_dashboard": "Owner Dashboard",
+        "owner_dashboard_no_login": "I am the Owner, show me the dashboard",
+        "od_propertyid": "Property ID: ",
+        "posted_date": "Posted Date: ",
+        "expiration_date": "Expiration Date",
+
+        "about_the_project": "About The Project",
+        "see_more": "See more",
+        "see_less": "Show less"
+    },
+
+    "search_proj_agency_hs": {
+
+        "follow": "Follow",
+        "follower": "Follower",
+        "followers": "Followers",
+        "photos": "photos",
+        "photo": "photo",
+
+
+        "search": "Search",
+        "city": "City",
+        "district": "District",
+        "street": "Street",
+        "category": "Category",
+
+
+
+        "property_type": "Property Type",
+        "status": "Status",
+
+
+        "sort_newest": "Newest",
+        "sort_rating": "Rating",
+
+        "rating": "Rating",
+        "vote": "vote",
+        "votes": "votes",
+        "for_sale": "For Sale: ",
+        "for_rent": "For Rent: ",
+        "from": "From",
+
+
+        "phone": "Phone",
+        "email": "Email",
+        "properties": "Properties",
+        "sell": "Sell",
+        "rent": "Rent",
+        "swap": "Swap",
+        "sold": "Sold",
+        "rented": "Rented",
+        "from_reviews": "From {{value}} Reviews",
+        "done_listing": "Done Listing",
+        "done_listings": "Done Listings"
+    },
+
+    "proj_agency_hs_details": {
+
+        "agency": "Agency",
+        "home_service": "Home Service",
+
+        "about": "About",
+        "news": "News",
+        "listings": "Listings",
+        "facilities": "Facilities",
+        "location": "Location",
+        "partners": "Partners",
+        "brochures": "Brochures",
+        "reviews": "Reviews",
+        "about_this_project": "About This Project",
+        "details": "Details",
+        "nearby_projects": "Nearby Projects",
+        "gallery": "Gallery",
+        "services": "Services",
+        "see-more": "See more",
+
+        "follow": "Follow",
+        "following": "Following",
+        "notification": "Notification",
+        "share": "Share",
+        "call": "Call",
+        "message": "Message",
+        "opening": "Opening",
+
+        "all": "All",
+        "sale": "Sale",
+        "rent": "Rent",
+        "swap": "Swap",
+        "sort_by": "Sort By",
+        "sort_by_name": "Name",
+        "sort_by_price": "Price",
+        "see_all": "See all",
+
+
+        "download": "Download",
+
+
+        "about_this_agency": "About This Agency",
+        "from_reviews": "From {{value}} Reviews",
+        "done_listing": "Done Listing",
+        "done_listings": "Done Listings",
+        "followers": "Followers",
+
+        "indepent_agence": "Independent agent",
+        "reply_instantly": "Typically replies instantly"
+    },
+
+    "reviews": {
+        "from_view": "From 12 views",
+
+        "sort_by_date": "Date",
+        "sort_by_rating": "Rating",
+        "write_a_review": "Write a review",
+        "write_review_for": "Write review for",
+        "overall_rating": "Overall Rating",
+        "review_comment": "Comment",
+        "review_comment_placeholder": "Write your comment here",
+        "submit_review": "Submit Review",
+        "review_message": "Favorite",
+        "next": "Next",
+        "previous": "Previous",
+        "see_more": "See more",
+        "see_less": "Show less",
+
+
+        "rv_security": "Security",
+        "rv_facilities": "Facilities",
+        "rv_recommend_project": "Would you recommend this project to a friend?",
+        "rv_cleanliness": "Cleanliness",
+        "rv_environment": "Environment",
+
+        "rv_security_pj": "Security",
+        "rv_facilities_pj": "Facilities",
+        "rv_recommend_project_pj": "Would you recommend this project to a friend?",
+        "rv_cleanliness_pj": "Cleanliness",
+        "rv_environment_pj": "Environment",
+
+
+
+        "rv_date_of_service": "Date of Service",
+        "rv_city": "City",
+        "rv_job_expertise": "Job Expertise",
+        "rv_quality_of_the_service": "Quality of the Service",
+        "rv_motivation": "Motivation",
+
+        "rv_recommend_hs": "Would you recommend this home service to a friend?",
+        "rv_certify_contract_hs": "I certify that this review corresponds to a personal experience with the Home service through a contract",
+        "rv_document_hs": "Do you have any document proving your experience with the Home service?",
+        "rv_document_yes": "Yes",
+        "rv_document_no": "No",
+
+        "rv_recommend_agency": "Would you recommend this agency to a friend?",
+        "rv_knowledge": "Knowledge of the local market",
+        "rv_certify_contract_agency": "I certify that this review corresponds to a personal experience with the Agency through a contract",
+        "rv_document_agency": "Do you have any document proving your experience with the Agency?"
+    },
+
+    "blog": {
+        "search": "Search",
+        "view_details": "View details",
+
+        "subscribe_title": "Subscribe News",
+        "subscribe_des": "Receive news of real-estate market from Hosiana.",
+        "subscribe_email": "Input your email",
+        "subscribe_button": "Subscribe",
+        "home_services": "Home Services",
+        "comments": "Comments",
+        "related_news": "Related News",
+        "highlighted_news": "Highlighted News",
+
+        "home": "Home",
+        "video": "Video",
+        "feng_shui": "Feng Shui",
+        "life": "Life",
+        "decoration": "Decoration",
+        "business": "Business",
+        "garden": "Garden",
+        "tips": "Tips",
+        "energy": "Energy"
+
+
+    },
+    "settings": {
+
+        "profile": "Profile",
+        "newsletters": "Newsletters",
+        "alerts": "Alerts",
+        "favorite_listings": "Favorite Listings",
+        "follows": "Follows",
+        "Security": "Settings",
+        "logout": "Log out",
+
+
+        "save": "Lưu",
+
+
+        "your_profile": "Thông tin của bạn",
+        "first_name": "Tên",
+        "first_name_placeholder": "Vui lòng nhập tên của bạn",
+        "last_name": "Họ",
+        "last_name_placeholder": "Vui lòng nhập họ của bạn ",
+        "gender": "Giới tính",
+        "gender_male": "Nam",
+        "gender_female": "Nữ",
+        "birthday": "Ngày sinh",
+        "birthday_day": "Ngày",
+        "birthday_month": "Tháng",
+        "birthday_year": "Năm",
+        "email": "Email",
+        "email_placeholder": "Vui lòng nhập email",
+        "phone": "SĐT",
+        "phone_verify": "Xác thực SĐT",
+        "phone_resend": "Gửi lại mã xác thực",
+        "phone_confirm": "Xác nhậ",
+        "delete": "Xóa",
+        "avatar": "Ảnh đại diện",
+        "avatar_des": "(jpg or png, < 5MB)",
+
+
+        "newsletter_des1": "Gửi cho tôi thông báo mới từ các danh mục đã yêu cầu.",
+        "newsletter_des2": "Khi lưu thông tin cài đặt này, đồng nghĩa với việc bạn đã đọc, hiểu và chấp nhận các chính sách và điều khoản của chúng tôi.",
+        "newsletter_real_estate": "Tin Bất Động Sản",
+        "newsletter_hosiana_updates": "Cập nhật từ Hosiana",
+        "newsletter_property_updates": "Cập nhật tin BĐS",
+        "newsletter_promotion": "Tin khuyến mãi",
+
+
+        "matching_alerts": "Tin đăng phù hợp",
+        "matching_alerts_des": "Vui lòng lưu thông tin tìm kiếm, chúng tôi sẽ gửi thông báo cho bạn qua email ngay khi có tin đăng phù hợp với yêu cầu vủa bạn.",
+        "view_new_listings": "Xem tin đăng mới",
+
+
+        "discount_alerts": "Bạn đang có giảm giá",
+        "discount_alerts_des": "Dưới đây là danh sách tất cả tin đăng mà bạn yêu cầu giảm giá.Chúng tôi sẽ gửi cho bạn thông báo qua email ngay sau khi chủ sở hữu chấp nhận yêu cầu của bạn.",
+
+
+        "change_password": "Thay đổi mật khẩu",
+        "old_password": "Nhập mật khẩu hiện tại",
+        "new_password": "Nhập mật khẩu mới",
+        "confirm_new_password": "Xác nhận mật khẩu mới"
+    },
+
+    "unit": {
+        "month": "month",
+        "million": "million"
+    },
+
+    "footer": {
+        "hotline": "Hotline (24/7)",
+        "customer_care": "Customer Care",
+        "work_with_hosiana": "Work with Hosiana",
+        "sale_apartment": "Sale Apartment",
+        "customer_support": "Customer Support",
+
+        "about_us": "About Us",
+        "about_hosiana": "About Hosiana",
+        "pro_stories": "Pro Stories",
+        "pro_education": "Pro Education",
+        "contact_us": "Contact Us",
+        "careers": "Careers",
+
+        "services": "Services",
+        "agency": "Agency",
+        "broker": "Broker",
+        "home_service": "Home Service",
+        "project_developer": "Project Developer",
+        "faq": "FAQ",
+
+        "term_of_use": "Terms of Use",
+        "privacy_policy": "Privacy Policy",
+        "operational_regulations": "Operational Regulations",
+        "dispute_resolution_mechanism": "Dispute Resolution Mechanism",
+
+        "make_money": "Make Money with Us",
+        "advertise_properties": "Advertise your Properties",
+        "receive_deals": "Receive Deal from Real Estate Agencies",
+        "advertise_hs": "Advertise your Home Services",
+        "advertise_proj": "Advertise your Project",
+        "grow_network": "Grow your Professional Network",
+
+        "follow_us": "Follow Us",
+
+        "copyright": "Copyright",
+        "certificate_no": "Certificate of Business Registration No.0314218864.",
+        "date_range": "Date range",
+        "grant_agency": "Granting agencies",
+        "department_planning": "Department of Planning and Investment of Ho Chi Minh City"
+    },
+    "FAQ": {
+        "REQUIRED_FIELD": "This is required",
+        "MEDIA_REQUIRED": "Please choose your image !",
+        "CONTACT_US": "Contact US",
+        "IF_YOU_HAVE_ANY_QUESTION": "If you have any question, don’t hesitate to contact us!",
+        "ABOUT_HOSIANA": "About HOSIANA",
+        "CONTACT_US_LOWER": "Contact us",
+        "CAREERS": "Careers",
+        "FAQ": "FAQ",
+        "SERVICE": "Service",
+        "AGENCY": "Agency",
+        "AGENCY_BDS": "Agency",
+        "HOMESERVICE": "Home Service",
+        "PROJECT_DEVELOPER": "Project Developer",
+        "BROKERS": "Brokers",
+        "COMMON_FAQ": "Common",
+        "FAQ_ABOUT_AGENCY": "About Agency",
+        "FAQ_ABOUT_HOME_SERVICE" : "About Home Service",
+        "FAQ_ABOUT_PROJECT_DEVELOPER": "About Project Developer",
+        "FAQ_ABOUT_BROKERS": "About Broker",
+        "MORE": "More",
+        "COMMON": "COMMON FAQ",
+        "FIND_JOB": "Discover great opportunities on Hosiana!",
+        "IMPROVE_SKILL": "At Hosiana, you are more than a job title, you are part of the online leading real estate marketplace and home services in Vietnam. ",
+        "WORK_WITH_FOREIGNER": "Join with us to make a huge impact on our lives!",
+        "WHY_CHOOSE": "Why choose hosiana",
+        "text_your_question": "Type your question"
+    },
+    "CAREER": {
+        "YOU_APPLYING": "YOU ARE APPLYING FOR ",
+        "SUBMIT_YOUR_APPLICATION": "SUBMIT YOUR APPLICATION",
+        "RESUME_CV": "Resume / CV",
+        "LINKS": "LINKS",
+        "LINKEDIN_URL": "Linkedin URL ",
+        "OTHER_URL": "Others URL",
+        "ETC" : "ETC",
+        "ADDITIONAL_INFOMATION": "Additional information",
+        "ADD_COVER_LETTER": "Add a cover letter or anything you want to share",
+        "WORK_LOCATION": "Work location",
+        "SALARY": "Salary",
+        "INDUSTRY": "Industry",
+        "DEADLINE_APP": "Deadline for application",
+        "YOUR_BENEFIT": "Your benefit",
+        "JOB_DESCRIPTION": "Job description",
+        "JOB_REQUIREMENT": "Job requirement ",
+        "APPLY_NOW": "Apply now",
+        "COPPY_SUCCESFULLY": "Copy Successfully",
+        "COPY_URL": "Copy URL",
+        "POSSIBLE_POSITIONS": "POSSIBLE POSITIONS",
+        "JOB_TITLE": "JOB TITLE",
+        "LOCATION" : "Location",
+        "READ_MORE": "Read More",
+        "YOUR_BENEFITS": "Your benefits",
+        "TRAINNING": "Trainning",
+        "TECHNOLOGY": "Technology",
+        "ENVIRONMENT": "Environment",
+        "BENEFIT_CONTENT": "The insurance, holidays, signing labor contracts…",
+        "TRAINNING_CONTENT": "Update information and improve skill",
+        "TECHNOLOGY_CONTENT" : "Good technical staff",
+        "ENVIRONMENT_CONTENT": "Competitive salary, high promotion opportunities"
+    },
+    "APP": {
+        "CHOOSE_FILE": "Choose File",
+        "TITLE_UPLOAD_ZIP": "In order to upload multiple files, please compress them info a single zip file",
+        "FULL_NAME": "Full Name ",
+        "EMAIL": "Email",
+        "PHONE_NUMBER": "Phone number ",
+        "SUBMIT": "Submit",
+        "FIELD_MARK": "Fields marked",
+        "ARE_REQUIRED": "are required",
+        "COUNTRY": "Country",
+        "ERROR_EMAIL": "Please fill correct email",
+        "PREV": "Prev",
+        "NEXT": "Next",
+        "TEXT_YOUR_QUESTION": "Text your question?"
+    },
+    "CONTACT": {
+        "IF_ANY_QUESTION": "If you have any question or want to learn more about property, Hosiana can help you find your property.",
+        "ENTER_INFOMATION": "Simply enter your information in the fields below and we will follow up with you shortly.",
+        "CONTACT_SALE_SUPPORT": "If you are an existing visitor or pro on Hosiana and have a question, contact seller support (Seller Central login required).",
+        "COMPANY_AND_CONTACT_INFOMATION": "Company and contact information",
+        "FIRST_NAME": "First Name ",
+        "LAST_NAME": "Last Name",
+        "COMPANY_NAME": "Company Name",
+        "COMPANY_WEBSITE": "Company Website",
+        "TELEPHONE": "Telephone",
+        "COMMENT_OR_DETAIL": "Comments or detail ",
+        "DISCRIBE_AND_MESSAGE": "Describe your product or enter your question"
+    },
+    "about_us": {
+        "title": "How we select properties?",
+        "sub_title": "Hosiana is much more than a marketplace!",
+        "different_title": "What makes us different?",
+        "different_desc": "We believe in a community of professionals with specialized market knowledge, using their insights to give property seekers top quality service. This belief propelled our creation of Hosiana, merging 15 years of experience in real estate with modern technology to provide a safe, working, and market responsive platform for your real estate needs. An agency relationship is built on trust that your interests will be protected and advanced with utmost skill and due care. Thus, Hosiana’s rigorous ‘agency vetting system’ takes out all the uncertainty in your search and ensures you get proper representation for your real estate needs",
+        "property": "Only legally registered agencies with a proven history of performance are listed on Hosiana.vn A strict quality control policy ensures only legit agencies post listings, thus shoring up the credibility of the platform.",
+        "agent_title": "What are the benefits of using Real Estate Agencies/Agents?",
+        "agent_sub_title": "Real Estate purchase is tricky business",
+        "agent_desc_1": "Real estate agent’s offer round the clock representation.",
+        "agent_desc_2": "Real estate agents have a deep understanding of the local market. They leverage this knowledge to ascertain a realistic evaluation of properties, including their future value.",
+        "agent_desc_3": "Real estate agents use their experience to arrive at optimal pricing of properties.",
+        "agent_desc_4": "They handle tough negotiations with professional apathy, thus are able to achieve better outcomes from difficult negotiations with sellers.",
+
+        "mission_title": "On hosiana.vn, every player has a different mission",
+        "mission_desc": "Project management, agencies, agents and owners have a different place. They all play an important role.",
+        "find_your_home": "Find your new home"
+    },
+    "error": {
+        "forgot_successful": "Successfully ! Please check to mail for reset password",
+        "forgot_failure": "Failed. Please check email again !",
+        "errorMsg": "Incorrect email and/or password."
+    },
+    "form" : {
+        "forgot_password": "Forgot password",
+        "forgot_description": "Please fill your email to reset password.",
+        "send": "Send",
+        "remembered_password": "I remembered my password",
+        "login": "Login"
+    }
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="30" viewBox="0 0 101 30">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="101" height="30" fill="#FFF" rx="3"/>
+        <text fill="#555" font-family="HelveticaNeue, Helvetica Neue" font-size="14" transform="translate(18 6)">
+            <tspan x="23.532" y="14">Follow</tspan>
+        </text>
+        <g transform="translate(18.6 6.6)">
+            <circle cx="8.4" cy="8.4" r="8.4" fill="#FFF" stroke="#555"/>
+            <path fill="#555" d="M7.8 4.2H9v8.4H7.8z"/>
+            <path fill="#555" d="M4.2 7.8h8.4V9H4.2z"/>
+        </g>
+    </g>
+</svg>

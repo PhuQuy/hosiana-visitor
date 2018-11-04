@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="17.5" cy="17.5" r="17.5" fill="#E4375C"/>
+        <text fill="#FFF" font-family="Roboto-Black, Roboto" font-size="14" font-weight="700" letter-spacing=".047">
+            <tspan x="4" y="23">Zalo</tspan>
+        </text>
+    </g>
+</svg>

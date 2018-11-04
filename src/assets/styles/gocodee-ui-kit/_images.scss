@@ -1,0 +1,32 @@
+img {
+    max-width: 100%;
+    border-radius: 1px;
+}
+
+.img-raised {
+    box-shadow: $box-shadow-raised;
+}
+
+.img-border-black {
+    border: solid 1px #aaaaaa;
+}
+
+.agency-detail-header {
+    .agency-avatar {
+        img-view {
+            .image-content {
+                background-size: 130px;
+                border: 1px solid #d9d9d9;
+                background-color: #f2f2f2;
+            }
+        }
+    }
+}
+
+.agency-home-avatar {
+    img-view {
+        .image-content {
+            border: 1px solid #d9d9d9;
+        }
+    }
+}

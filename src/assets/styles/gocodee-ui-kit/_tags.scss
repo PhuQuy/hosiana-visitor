@@ -1,0 +1,24 @@
+.bootstrap.ng2-tag-input {
+    border-bottom: none !important;
+}
+
+//custom tag input
+tag {
+    padding: .02rem .45rem !important;
+    height: 30px !important;
+    line-height: 30px !important;
+    background: $white-color !important;
+    color: #555555 !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+
+    font-family: inherit !important;
+
+    delete-icon svg {
+        height: 30px !important;
+
+        path {
+            fill: #555555 !important;
+        }
+    }
+}

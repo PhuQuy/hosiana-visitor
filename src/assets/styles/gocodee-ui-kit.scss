@@ -1,0 +1,58 @@
+/*!
+
+ =========================================================
+ * gocodee-ui-kit - v1.1.0
+ =========================================================
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@import 'gocodee-ui-kit/variables';
+@import 'gocodee-ui-kit/mixins';
+
+// Plugins CSS
+@import "gocodee-ui-kit/plugins/plugin-bootstrap-switch";
+@import "gocodee-ui-kit/plugins/plugin-nouislider";
+@import "gocodee-ui-kit/plugins/plugin-datepicker";
+
+// Core CSS
+@import "gocodee-ui-kit/buttons";
+@import "gocodee-ui-kit/inputs";
+@import "gocodee-ui-kit/checkboxes-radio";
+@import "gocodee-ui-kit/progress";
+@import "gocodee-ui-kit/badges";
+@import "gocodee-ui-kit/pagination";
+@import "gocodee-ui-kit/typography";
+@import "gocodee-ui-kit/misc";
+@import "gocodee-ui-kit/pills";
+
+// components
+@import "gocodee-ui-kit/social-buttons";
+@import "gocodee-ui-kit/tabs";
+@import "gocodee-ui-kit/navbar";
+@import "gocodee-ui-kit/dropdown";
+@import "gocodee-ui-kit/alerts";
+@import "gocodee-ui-kit/images";
+@import "gocodee-ui-kit/popups";
+@import "gocodee-ui-kit/nucleo-outline";
+@import "gocodee-ui-kit/modals";
+@import "gocodee-ui-kit/carousel";
+@import "gocodee-ui-kit/cards";
+@import "gocodee-ui-kit/footers";
+@import "gocodee-ui-kit/validation";
+@import "gocodee-ui-kit/select";
+@import "gocodee-ui-kit/slider";
+@import "gocodee-ui-kit/header";
+@import "gocodee-ui-kit/list-style";
+@import "gocodee-ui-kit/text-style";
+
+// example pages and sections
+@import "gocodee-ui-kit/example-pages";
+@import "gocodee-ui-kit/sections";
+
+
+@import "gocodee-ui-kit/responsive";
+@import "gocodee-ui-kit/tags";
+

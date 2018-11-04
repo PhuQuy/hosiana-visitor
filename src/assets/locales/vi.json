@@ -1,0 +1,759 @@
+{
+    "routing_blog": "tin-tuc",
+    "routing_feed": "tin-moi",
+    "routing_buy": "bat-dong-san-dang-ban",
+    "routing_rent": "bat-dong-san-cho-thue",
+    "routing_swap": "bat-dong-san-trao-doi",
+    "routing_buy_townhouse": "nha-o-dang-ban",
+    "routing_rent_townhouse": "nha-o-cho-thue",
+    "routing_swap_townhouse": "nha-o-trao-doi",
+    "routing_commercial": "bds-thuong-mai",
+    "routing_project": "du-an",
+    "routing_about": "ve-chung-toi",
+    "routing_listing": "tin-dang",
+    "routing_agency": "dai-ly",
+    "routing_home_service": "dich-vu-nha-cua",
+    "routing_about_hos": "ve-hosiana",
+    "routing_contact_us": "lien-he",
+    "routing_apply_job": "ung-tuyen",
+    "routing_career": "co-hoi-nghe-nghiep",
+    "routing_faq": "cau-hoi-thuong-gap",
+    "routing_about_agency": "ve-dai-ly",
+    "routing_about_broker": "ve-moi-gioi-tu-do",
+    "routing_about_homeservice": "ve-dich-vu-nha-cua",
+    "routing_about_project_developer": "ve-nha-phat-trien-du-an",
+    "routing_term_of_use": "dieu-khoan-su-dung",
+    "routing_privacy_policy": "chinh-sach-bao-mat",
+    "routing_operation_regular": "quy-che-hoat-dong",
+    "routing_dispute": "co-che-giai-quyet-tranh-chap",
+    "register_bo_cong_thuong": "cai-dat/da-dang-ky-bo-cong-thuong",
+    "routing_faq_broker": "moi-gioi-tu-do",
+    "routing_faq_project": "nha-phat-trien-du-an",
+    "routing_faq_agency": "dai-ly",
+    "routing_faq_homeservice": "dich-vu-nha-cua",
+    "routing_reset_pass": "dat-lai-mat-khau",
+    "routing_buy_commercial": "bds-thuong-mai-dang-ban",
+    "routing_rent_commercial": "bds-thuong-mai-cho-thue",
+
+    "home": {
+        "title1": "Cần thuê mua nhà",
+        "title2": "Đã có chuyên gia",
+        "buy": "Buy",
+        "rent": "Rent",
+        "swap": "Swap",
+        "search_placeholder": "Enter City, District or Project Name",
+        "pro_title": "Bạn là một chuyên gia, đăng tin bất động sản với Hosiana Pro",
+        "pro_get_started": "Bắt đầu",
+        "new_sale_to_market": "BĐS mới đang bán",
+        "new_rent_to_market": "BĐS mới cho thuê",
+        "see_all": "Xem tất cả",
+        "featured_projects": "Dự án nổi bật",
+        "discounted_properties": "Bất động sản giảm giá",
+        "affordable_homes": "Nhà giá rẻ",
+
+        "how_title": "HOSIANA LỰA CHỌN BẤT ĐỘNG SẢN NHƯ THẾ NÀO?",
+        "how_des": "Chúng tôi còn hơn cả một sàn giao dịch!",
+        "how_step1": "Các đại lý bất động sản hợp pháp gửi yêu cầu đăng ký làm thành viên trên Hosiana PRO",
+        "how_step2": "Bộ phận Pháp lý kiểm tra nghiêm khắc tình trạng pháp lý của từng đại lý",
+        "how_step3": "Bộ phận chăm sóc khách hàng kiểm tra và xem xét tính tuân thủ của hồ sơ đại lý với các chính sách nội bộ của Hosiana",
+        "how_step4": "Các đại lý được chấp nhận được đăng ký làm thành viên trên Hosiana PRO và bắt đầu đăng tin",
+        "how_step5": "Bộ phận quản lý chất lượng kiểm tra thông tin bất động sản trong mỗi tin đăng",
+        "how_learn_more": "Xem thêm",
+
+        "tips_news": "MẸO VÀ TIN TỨC",
+
+        "properties_for_sale": "BĐS đang bán",
+        "properties_for_rent": "BĐS cho thuê"
+    },
+
+    "header": {
+        "feeds": "Tin mới",
+        "buy": "Mua",
+        "rent": "Thuê",
+        "swap": "Trao đổi",
+        "commercial": "BĐS Thương mại",
+        "project": "Dự án",
+        "agency": "Tìm đại lý",
+        "home_services": "Dịch vụ nhà cửa",
+        "blog": "Tin tức",
+        "more": "Thêm",
+        "post_listing": "Đăng tin",
+        "login": "Đăng nhập",
+        "sign_up": "Đăng ký"
+
+    },
+
+    "feeds": {
+
+        "filters": "Tìm kiếm",
+        "filter_agency": "Đại lý",
+        "filter_city": "Thành phố",
+        "filter_service_type": "Dịch vụ",
+        "filter_property_type": "Loại nhà đất",
+        "filter_project": "Dự án",
+        "filter_price": "Chọn mức giá",
+        "suggestion": "Đề xuất",
+
+
+        "favorite": "Yêu thích",
+        "favorties": "Yêu thích",
+        "comment": "Bình luận",
+        "comments": "Bình luận",
+        "follow": "Theo dõi",
+
+        "call": "Gọi điện",
+        "message": "Gửi tin nhắn",
+
+        "rating": "Đánh giá",
+        "vote": "bình chọn",
+        "votes": "bình chọn",
+        "for_sale": "Bán",
+        "for_rent": "Thuê",
+
+        "see_more": "Xem thêm",
+        "see_less": "Thu gọn",
+
+        "older_blog": "Xem tin cũ hơn",
+
+        "agency": "Đại lý",
+        "home_service": "Dịch vụ nhà cửa",
+        "followers": "Người theo dõi",
+        "view_listings": "Xem bài đăng",
+
+
+        "agency_to_follow": "Theo dõi đại lý",
+        "home_services_to_follow": "Theo dõi dịch vụ nhà cửa",
+        "project_to_follow": "Theo dõi dự án"
+    },
+
+    "login": {
+        "login_with_account": "Đăng nhập tài khoản",
+        "login_description": "Truy cập danh sách yêu thích của bạn, thông báo phù hợp, thông báo tài sản giảm giá và hơn thế nữa",
+        "remember_me": "Ghi nhớ mật khẩu",
+        "forgot_password": "Quên mật khẩu?",
+        "login_button": "Đăng nhập",
+        "no_account_signup_here": "Chưa có tài khoản? Đăng ký tại đây",
+        "login_with_facebook": "Hoặc đăng nhập bằng Facebook",
+        "login_title": "Bạn là một chuyên gia?",
+        "login_description2": "Quản lý hồ sơ cá nhân, lead, tin đăng, dự án và nhiều hơn thế.",
+        "pro_login_button": "Đăng nhập vào PRO",
+        "no_pro_account_signup_here": "Không có tài khoản chuyên gia? Đăng ký tại đây.",
+        "welcome_to": "Chào mừng đến với",
+        "signup_to_get_property": "Đăng ký để nhận những cập nhật về bất động sản, mẹo về nhà cửa và thông tin dự án qua email",
+        "placeholder_email": "Email",
+        "placeholder_password": "Mật khẩu",
+        "check_email": "Vui lòng nhập đúng địa chỉ email",
+        "check_password": "Vui lòng nhập mật khẩu",
+        "send_tips": "Gửi tôi tin tức và thông tin từ hosiana.vn",
+        "by_creating_account": "Tạo tài khoản mới và đồng ý với chúng tôi về",
+        "terms_of_use": "Điều khoản sử dụng",
+        "and": "và",
+        "private_policy": "Chính sách bảo mật",
+        "already_register": "Đã đăng ký? Đăng nhập",
+        "signup": "Đăng ký",
+        "register_login": "Đã đăng ký? Đăng nhập"
+
+    },
+
+    "search_common": {
+        "more_filters": "Tìm kiếm nâng cao",
+        "clear": "Xóa",
+        "save_search": "Lưu tìm kiếm",
+        "view_map": "Xem bản đồ",
+
+
+        "sort_by": "Sắp xếp theo",
+        "sort_by_name": "Tên",
+        "sort_by_address": "Địa chỉ",
+
+
+
+
+        "listing": "Tin đăng",
+        "listings": "Tin đăng",
+
+        "agency": "Đại lý",
+        "agencies": "Đại lý",
+
+        "project": "Dự án",
+        "projects": "Dự án",
+
+        "home_service": "Dịch vụ nhà cửa",
+        "home_services": "Dịch vụ nhà cửa",
+
+
+        "prev": "Trước",
+        "next": "Sau",
+        "show": "Hiển thị",
+        "results_per_page": "kết quả",
+
+        "of": "trên",
+        "result": "kết quả",
+        "results": "kết quả"
+    },
+
+    "search_listing": {
+
+        "city_district_project": "Nhập Thành phố, Quận/Huyện, hoặc tên dự án",
+        "price_range": "Chọn mức giá",
+        "min_price": "Giá thấp nhất",
+        "max_price": "Giá cao nhất",
+        "any": "Bất kỳ",
+        "beds": "Số phòng",
+        "home_types": "Loại nhà đất",
+        "home_types_townhouse": "Nhà mặt phố",
+        "home_types_apartment": "Căn hộ, chung cư",
+        "home_types_villa": "Nhà biệt thự, liền kề",
+        "home_types_land": "Đất bán",
+        "service_type": "Loại",
+        "service_type_buy": "Mua",
+        "service_type_rent": "Thuê",
+        "service_type_swap": "Trao đổi",
+        "office": "Văn Phòng",
+        "warehouse" : "Kho bãi",
+        "industrial_land": "Đất công nghiệp",
+        "factory": "Nhà Kho / Nhà Máy",
+        "shop": "Cửa Hàng",
+        "hotel": "Khách Sạn",
+        "restaurant_bar": "Nhà Hàng / Bar",
+        "co_working_space": "Không gian làm việc chung",
+        "other": "Khác",
+        "lowest_price": "Thấp nhất",
+        "highest_price": "Cao nhất",
+
+        "no_record": "Hiện tại chúng tôi chưa có thông tin về phần này. Chúng tôi sẽ cập nhật sớm nhất có thể!",
+
+
+        "new_to_market": "Mới ra thị trường",
+        "discounted_properties": "Đang giảm giá",
+        "property_area": "Diện tích nhà",
+        "property_area_min": "Diện tích nhỏ nhất",
+        "property_area_max": "Diện tích lớn nhất",
+        "land_area": "Diện tích đất",
+        "land_area_min": "Diện tích nhỏ nhất",
+        "land_area_max": "Diện tích lớn nhất",
+        "bathrooms": "Phòng tắm",
+        "bathrooms_any": "Bất kì",
+        "facilities": "Tiện ích",
+        "fa_swimming": "Hồ bơi",
+        "fa_jacuzzi": "Bồn tắm mát xa",
+        "fa_sauna": "Phòng xông hơi",
+        "fa_fitness": "CLB Thể dục thẩm mỹ",
+        "fa_tennis": "CLB Tennis",
+        "fa_badminton": "Sân cầu lông",
+        "fa_restaurant": "Nhà hàng",
+        "fa_cafe": "Cafe",
+        "fa_bar_pub": "Bar/Pub",
+
+
+        "property_types": "Loại nhà đất",
+        "property_types_office": "Văn phòng",
+        "property_types_warehouse_factory": "Kho bãi/ Nhà xưởng",
+        "property_types_shop": "Cửa hàng",
+        "property_types_hotel": "Khách sạn",
+        "property_types_restaurant_bar": "Nhà hàng/ Quán Bar",
+        "property_types_coworking_space": "Không gian làm việc chung",
+        "property_types_industrial_land": "Đất công nghiệp",
+        "property_types_": "Đất công nghiệp",
+        "property_types_area": "Đất bán",
+        "property_types_others": "BĐS khác",
+
+
+        "sort_newest": "Tin mới nhất",
+        "sort_price_asc": "Giá thấp nhất",
+        "sort_price_desc": "Giá cao nhất",
+        "sort_area_asc": "Diện tích nhỏ nhất",
+        "sort_area_desc": "Diện tích lớn nhất",
+
+        "sale": "Bán",
+        "rent": "Thuê",
+        "swap": "Trao đổi",
+
+        "search": "Tìm Kiếm",
+        "cancel": "Hủy Bỏ",
+
+        "receive_notification": "Nhận bản tin mới nhất từ Hosiana",
+        "email_address": "Địa chỉ Email:",
+        "register": "Đăng Ký",
+        "enter_email": "Nhập email đăng ký"
+    },
+
+    "listing_details": {
+
+        "favorite": "Yêu thích",
+        "notification": "Thông báo",
+        "noti_successful": "Bạn đã bật trạng thái gửi thông báo thành công. Chúng tôi sẽ gửi thông báo qua email khi có tin đăng phù hợp.",
+        "share": "Chia sẻ",
+        "call": "Gọi điện",
+        "message": "Gửi tin nhắn",
+        "view_photos": "Xem Ảnh",
+        "photos": "Hình",
+        "photo": "Hình",
+
+        "broker": "Nhà môi giới",
+
+
+        "swap_owner_looking_for": "Chủ tài sản này cần tìm",
+        "swap_property_type": "Loại tài sản",
+        "swap_apartment": "Căn hộ",
+        "swap_bedrooms": "Phòng ngủ",
+        "swap_location": "Vị trí",
+        "swap_minimum_area": "Diện tích tối thiểu",
+        "swap_facilities": "Tiện ích",
+        "minimum": "Tối thiểu",
+
+
+        "about_this_property": "Thông tin về tài sản",
+        "facilities": "Tiện ích",
+        "location": "Vị trí",
+        "comments": "Bình luận",
+        "recently viewed": "Đã xem gần đây",
+
+
+        "details": "Thông tin chi tiết",
+        "bedrooms": "Phòng ngủ",
+        "bathrooms": "Phòng tắm",
+        "floors": "Số tầng",
+        "gross_floor_area": "Tổng diện tích sàn",
+        "land_area": "Diện tích đất",
+        "price_m2": "Gía / m²",
+        "price_m2_land": "Gía / m² (Đất)",
+        "furnished": "Nội thất",
+        "parking": "Bãi đậu xe",
+        "pets_allowed": "Cho phép nuôi thú cưng",
+        "direct_road_access_for_car": "Đường xe hơi vô tân nhà",
+        "land_type": "Loại đất",
+
+        "investment_performance": "Hiệu quả đầu tư",
+        "price": "Gía",
+        "management_fee_included": "Bao gồm phí quản lý",
+        "management_fee": "Phí quản lý",
+        "deposit": "Đặt cọc",
+        "rental_recorded": "Gía thuê khu vực lân cận",
+        "loan_support": "Hỗ trợ vay vốn",
+
+
+        "map_atm": "ATM,Ngân hàng",
+        "map_cinema": "Rạp chiếu phim",
+        "map_drinks": "Quán nước",
+        "map_restaurant": "Nhà hàng",
+        "map_hospital": "Bệnh viện",
+        "map_dentist": "Nha khoa",
+        "map_spa": "Làm đẹp, Spa",
+        "map_sport": "CLB Thể thao, giải trí",
+        "map_supermarket": "Siêu thị",
+        "map_school": "Trường học",
+
+        "onwer_dashboard": "Số liệu thống kê cho chủ tài sản",
+        "owner_dashboard_no_login": "Tôi là chủ tài sản, cho tôi thấy số liệu",
+        "od_propertyid": "Mã: ",
+        "posted_date": "Ngày đăng tin: ",
+        "expiration_date": "Ngày hết hạn",
+
+        "about_the_project": "Thông tin về dự án",
+        "see_more": "Xem thêm",
+        "see_less": "Thu gọn"
+
+    },
+
+    "search_proj_agency_hs": {
+
+        "follow": "Theo dõi",
+        "follower": "Người theo dõi",
+        "followers": "Người theo dõi",
+        "photos": "hình ảnh",
+        "photo": "hình ảnh",
+
+
+        "search": "Tìm kiếm",
+        "city": "Tỉnh thành",
+        "district": "Quận/Huyện",
+        "street": "Đường",
+        "category": "Loại dự án",
+
+
+
+        "property_type": "Loại dự án",
+        "status": "Trạng thái",
+
+
+        "sort_newest": "Mới nhất",
+        "sort_rating": "Đánh giá",
+
+
+        "rating": "Đánh giá",
+        "vote": "bình chọn",
+        "votes": "bình chọn",
+        "for_sale": "Đang bán: ",
+        "for_rent": "Cho thuê: ",
+        "from": "Từ",
+
+
+        "phone": "Gọi điện",
+        "email": "Email",
+        "properties": "Bất động sản",
+        "sell": "Bán",
+        "rent": "Cho thuê",
+        "swap": "Trao đổi",
+        "sold": "Đã bán",
+        "rented": "Đã thuê",
+        "from_reviews": "Đánh giá",
+        "done_listing": "Đã hoàn thành",
+        "done_listings": "Đã hoàn thành"
+    },
+
+    "proj_agency_hs_details": {
+
+        "agency": "Đại lý",
+        "home_service": "Dịch vụ nhà cửa",
+
+        "about": "Giới thiệu",
+        "news": "Tin tức",
+        "listings": "Tin đăng",
+        "facilities": "Tiện ích",
+        "location": "Vị trí",
+        "partners": "Đối tác",
+        "brochures": "Tài liệu",
+        "reviews": "Đánh giá",
+        "about_this_project": "Giới thiệu dự án",
+        "details": "Chi tiết dự án",
+        "nearby_projects": "Dự án lân cận",
+        "gallery": "Thư viện hình ảnh",
+        "services": "Dịch vụ",
+        "see-more": "Xem thêm",
+
+        "follow": "Theo dõi",
+        "following": "Đang theo dõi",
+        "notification": "Thông báo",
+        "share": "Chia sẻ",
+        "call": "Gọi điện",
+        "message": "Nhắn tin",
+        "opening": "Đang mở",
+
+
+        "all": "Tất cả",
+        "sale": "Bán",
+        "rent": "Thuê",
+        "swap": "Trao đổi",
+        "sort_by": "Sắp xếp theo",
+        "sort_by_name": "Tên",
+        "sort_by_price": "Giá",
+        "see_all": "Xem tất cả",
+
+
+        "download": "Tải về",
+
+
+        "about_this_agency": "Thông tin về đại lý",
+        "from_reviews": "Đánh giá",
+        "done_listing": "Đã hoàn thành",
+        "done_listings": "Đã hoàn thành",
+        "followers": "Người theo dõi",
+
+        "indepent_agence": "Mô giới cá nhân",
+        "reply_instantly": "Thường trả lời ngay lập tức"
+    },
+
+    "reviews": {
+        "from_view": "Từ 12 lượt đánh giá",
+
+        "sort_by_date": "Ngày đăng",
+        "sort_by_rating": "Đánh giá",
+        "write_a_review": "Gửi đánh giá",
+        "write_review_for": "Viết đánh giá ",
+        "overall_rating": "Đánh giá chung",
+        "review_comment": "Bình luận",
+        "review_comment_placeholder": "Viết bình luận của bạn ở đây",
+        "submit_review": "Gửi đánh giá",
+        "review_message": "Yêu thích",
+        "next": "Sau",
+        "previous": "Trước",
+        "see_more": "Xem thêm",
+        "see_less": "Thu gọn",
+
+
+        "rv_security": "Độ tin cậy",
+        "rv_facilities": "Dịch vụ",
+        "rv_recommend_project": "Thái độ làm việc",
+        "rv_cleanliness": "Đánh giá nhân viên",
+        "rv_environment": "Không gian xung quanh",
+
+        "rv_security_pj": "Mức độ an toàn",
+        "rv_facilities_pj": "Tiện ích xung quanh",
+        "rv_recommend_project_pj": "Bạn có muốn giới thiệu dự án này đến bạn bè?",
+        "rv_cleanliness_pj": "Vệ sinh xung quanh",
+        "rv_environment_pj": "Không gian xung quanh",
+
+
+        "rv_date_of_service": "Ngày sử dụng dịch vụ",
+        "rv_city": "Khu vực",
+        "rv_job_expertise": "Đánh giá chuyên môn",
+        "rv_quality_of_the_service": "Chất lượng dịch vụ",
+        "rv_motivation": "Trải nghiệm dịch vụ",
+
+        "rv_recommend_hs": "Bạn có muốn giới thiệu dịch vụ này đến bạn bè?",
+        "rv_certify_contract_hs": "Tôi xác nhận phần đánh giá này dựa trên trải nghiệm cá nhân với dịch vụ nhà cửa đã sử dụng.",
+        "rv_document_hs": "Bạn có tài liệu ào chứng minh rằng đã sử dụng dịch vụ nhà cửa này không?",
+        "rv_document_yes": "Có",
+        "rv_document_no": "Không",
+
+        "rv_recommend_agency": "Bạn có muốn giới thiệu đại lý này đến bạn bè?",
+        "rv_knowledge": "Kiến thức về thị trường bất động sản nơi bạn ở",
+        "rv_certify_contract_agency": "Tôi xác nhận rằng phần đánh giá này dựa trên trải nghiệm của cá nhân với đại lý bất động sản này",
+        "rv_document_agency": "Bạn có tài liệu nào chứng minh đã làm việc với đại lý bất động sản này không?"
+    },
+
+    "blog": {
+        "search": "Tìm kiếm",
+        "view_details": "Xem chi tiết",
+
+        "subscribe_title": "Đăng ký nhận tin",
+        "subscribe_des": "Đăng kí nhận tin mới nhất của thị trường bất động sản từ Hosiana.",
+        "subscribe_email": "Nhập dịa chỉ email của bạn",
+        "subscribe_button": "Đăng ký",
+        "home_services": "Dịch vụ nhà cửa",
+        "comments": "Bình luận",
+        "related_news": "Bài viết liên quan",
+        "highlighted_news": "Tin nổi bật",
+
+        "home": "Trang Chủ",
+        "video": "Video",
+        "feng_shui": "Phong Thủy",
+        "life": "Đời Sống",
+        "decoration": "Trang Trí",
+        "business": "Kinh Doanh",
+        "garden": "Làm Vườn",
+        "tips": "Mẹo",
+        "energy": "Năng Lượng"
+
+    },
+
+    "settings": {
+
+        "profile": "Thông tin cá nhân",
+        "newsletters": "Bảng tin",
+        "alerts": "Cảnh báo",
+        "favorite_listings": "Tin đăng yêu thích",
+        "follows": "Đang theo dõi",
+        "Security": "Cài đặt bảo mật",
+        "logout": "Đăng xuất",
+
+
+        "save": "Lưu",
+
+
+        "your_profile": "Thông tin của bạn",
+        "first_name": "Tên",
+        "first_name_placeholder": "Vui lòng nhập tên của bạn",
+        "last_name": "Họ",
+        "last_name_placeholder": "Vui lòng nhập họ của bạn ",
+        "gender": "Giới tính",
+        "gender_male": "Nam",
+        "gender_female": "Nữ",
+        "birthday": "Ngày sinh",
+        "birthday_day": "Ngày",
+        "birthday_month": "Tháng",
+        "birthday_year": "Năm",
+        "email": "Email",
+        "email_placeholder": "Vui lòng nhập email",
+        "phone": "SĐT",
+        "phone_verify": "Xác thực SĐT",
+        "phone_resend": "Gửi lại mã xác thực",
+        "phone_confirm": "Xác nhậ",
+        "delete": "Xóa",
+        "avatar": "Ảnh đại diện",
+        "avatar_des": "(jpg or png, < 5MB)",
+
+
+        "newsletter_des1": "Gửi cho tôi thông báo mới từ các danh mục đã yêu cầu.",
+        "newsletter_des2": "Khi lưu thông tin cài đặt này, đồng nghĩa với việc bạn đã đọc, hiểu và chấp nhận các chính sách và điều khoản của chúng tôi.",
+        "newsletter_real_estate": "Tin Bất Động Sản",
+        "newsletter_hosiana_updates": "Cập nhật từ Hosiana",
+        "newsletter_property_updates": "Cập nhật tin BĐS",
+        "newsletter_promotion": "Tin khuyến mãi",
+
+
+        "matching_alerts": "Tin đăng phù hợp",
+        "matching_alerts_des": "Vui lòng lưu thông tin tìm kiếm, chúng tôi sẽ gửi thông báo cho bạn qua email ngay khi có tin đăng phù hợp với yêu cầu vủa bạn.",
+        "view_new_listings": "Xem tin đăng mới",
+
+
+        "discount_alerts": "Bạn đang có giảm giá",
+        "discount_alerts_des": "Dưới đây là danh sách tất cả tin đăng mà bạn yêu cầu giảm giá.Chúng tôi sẽ gửi cho bạn thông báo qua email ngay sau khi chủ sở hữu chấp nhận yêu cầu của bạn.",
+
+
+        "change_password": "Thay đổi mật khẩu",
+        "old_password": "Nhập mật khẩu hiện tại",
+        "new_password": "Nhập mật khẩu mới",
+        "confirm_new_password": "Xác nhận mật khẩu mới"
+    },
+
+    "unit": {
+        "month": "tháng",
+        "million": "Triệu"
+    },
+
+    "footer": {
+        "hotline": "Hotline (24/7)",
+        "customer_care": "Chăm sóc khách hàng",
+        "work_with_hosiana": "Hợp tác với Hosiana",
+        "sale_apartment": "Bộ phận bán hàng",
+        "customer_support": "Hỗ trợ khách hàng",
+
+        "about_us": "Về chúng tôi",
+        "about_hosiana": "Thông tin Hosiana",
+        "pro_stories": "Câu chuyện của chuyên gia",
+        "pro_education": "Những bài học từ chuyên gia",
+        "contact_us": "Liên hệ chúng tôi",
+        "careers": "Cơ hội nghề nghiệp",
+
+        "services": "Dịch vụ",
+        "agency": "Đại lý BĐS",
+        "broker": "Môi giới cá nhân",
+        "home_service": "Dịch vụ nhà cửa",
+        "project_developer": "Nhà phát triển dự án",
+        "faq": "Câu hỏi thường gặp",
+        "term_of_use": "Điều khoản sử dụng",
+        "privacy_policy": "Chính sách bảo mật",
+        "operational_regulations": "Quy chế hoạt động",
+        "dispute_resolution_mechanism": "Cơ Chế Giải Quyết Tranh Chấp",
+
+        "make_money": "Thêm thu nhập với Hosiana",
+        "advertise_properties": "Quảng cáo bất động sản",
+        "receive_deals": "Nhận thỏa thuận từ các nhà bất động sản",
+        "advertise_hs": "Quảng cáo dịch vụ nhà cửa của bạn",
+        "advertise_proj": "Quảng cáo dự án của bạn",
+        "grow_network": "Phát triển mạng lưới chuyên nghiệp",
+
+        "follow_us": "Theo dõi chúng tôi",
+        "copyright": "Bản quyền",
+        "certificate_no": "Giấy chứng nhận Đăng Ký Doanh Nghiệp số 0314218864.",
+        "date_range": "Ngày cấp",
+        "grant_agency": "Cơ quan cấp",
+        "department_planning": "Sở kế hoạch và Đầu tư Thành phố Hồ Chí Minh"
+    },
+    "FAQ": {
+        "REQUIRED_FIELD": "Trường này là bắt buộc",
+        "MEDIA_REQUIRED": "Vui lòng chọn hình ảnh của bạn !",
+        "CONTACT_US": "Liên hệ với chúng tôi",
+        "IF_YOU_HAVE_ANY_QUESTION": "Nếu bạn có bất kỳ câu hỏi nào, đừng ngại liên hệ với chúng tôi ",
+        "ABOUT_HOSIANA": "Về HOSIANA",
+        "CONTACT_US_LOWER": "Liên hệ với chúng tôi",
+        "CAREERS": "Cơ hội nghề nghiệp",
+        "FAQ": "Những câu hỏi thường gặp",
+        "SERVICE": "Dịch vụ",
+        "AGENCY": "Đại lý BĐS",
+        "AGENCY_BDS": "Đại lý bất động sản",
+        "HOMESERVICE": "Dịch vụ nhà cửa",
+        "PROJECT_DEVELOPER": "Nhà phát triển dự án",
+        "BROKERS": "Môi giới cá nhân",
+        "COMMON_FAQ": "Câu hỏi thường gặp",
+        "FAQ_ABOUT_AGENCY": "Câu hỏi thường gặp về đại lý BĐS",
+        "FAQ_ABOUT_HOME_SERVICE" : "Câu hỏi thường gặp về dịch vụ nhà cửa",
+        "FAQ_ABOUT_PROJECT_DEVELOPER": "Câu hỏi thường gặp về người phát triển dự án",
+        "FAQ_ABOUT_BROKERS": "Câu hỏi thường gặp về nhà môi giới tự do",
+        "MORE": "Xem thêm ",
+        "COMMON": "Câu hỏi thường gặp",
+        "FIND_JOB": "Khám phá cơ hội việc làm hấp dẫn tại Hosiana! ",
+        "IMPROVE_SKILL": "Tại Hosiana, bạn không chỉ là vị trí bạn trở thành mà bạn còn là một phần của sàn trực tuyến hỗ trợ giao dịch bất động sản và dịch vụ nhà cửa hàng đầu Việt Nam. ",
+        "WORK_WITH_FOREIGNER": "Tham gia với chúng tôi để cùng nhau thay đổi cuộc sống!",
+        "WHY_CHOOSE": "Tại sao chọn chúng tôi",
+        "PREV": "Trước",
+        "NEXT": "Sau",
+        "text_your_question": "Điền câu hỏi của bạn"
+    },
+    "CAREER": {
+        "YOU_APPLYING": "YOU ARE APPLYING FOR ",
+        "SUBMIT_YOUR_APPLICATION": "SUBMIT YOUR APPLICATION",
+        "RESUME_CV": "Resume / CV",
+        "LINKS": "LINKS",
+        "LINKEDIN_URL": "Linkedin URL ",
+        "OTHER_URL": "Others URL",
+        "ETC" : "ETC",
+        "ADDITIONAL_INFOMATION": "Additional information",
+        "ADD_COVER_LETTER": "Add a cover letter or anything you want to share",
+        "WORK_LOCATION": "Nơi làm việc",
+        "SALARY": "Mức lương",
+        "INDUSTRY": "Ngành nghề",
+        "DEADLINE_APP": "Thời hạn nộp hồ sơ",
+        "YOUR_BENEFIT": "Quyền lợi",
+        "JOB_DESCRIPTION": "Mô tả công việc",
+        "JOB_REQUIREMENT": "Yêu cầu công việc ",
+        "APPLY_NOW": "Nộp đơn",
+        "COPPY_SUCCESFULLY": "Sao chép thành công",
+        "COPY_URL": "Copy URL",
+        "POSSIBLE_POSITIONS": "VỊ TRÍ ĐANG TUYỂN",
+        "JOB_TITLE": "Vị trí ",
+        "LOCATION" : "Nơi làm việc",
+        "READ_MORE": "Xem thêm",
+        "YOUR_BENEFITS": "Quyền lợi",
+        "TRAINNING": "Đào tạo",
+        "TECHNOLOGY": "Công nghệ",
+        "ENVIRONMENT": "Môi trường làm việc",
+        "BENEFIT_CONTENT": "Chế độ bảo hiểm, ngày nghỉ phép, HĐLĐ theo luật Nhà nước",
+        "TRAINNING_CONTENT": "Luôn học hỏi cái mới và giúp phát triển kĩ năng cá nhân của bạn",
+        "TECHNOLOGY_CONTENT" : "Đội ngũ kĩ thuật chuyên nghiệp",
+        "ENVIRONMENT_CONTENT": "Lương thưởng cạnh tranh, cơ hội thăng tiến"
+    },
+    "APP": {
+        "CHOOSE_FILE": "Chọn file",
+        "TITLE_UPLOAD_ZIP": "Để tải file bất kì, vui lòng nén file",
+        "FULL_NAME": "Họ tên đầy đủ ",
+        "EMAIL": "Email",
+        "PHONE_NUMBER": "Số điện thoại",
+        "SUBMIT": "Nộp đơn",
+        "FIELD_MARK": "Thông tin",
+        "ARE_REQUIRED": "là phần bắt buộc ",
+        "COUNTRY": "Nước",
+        "ERROR_EMAIL": "Vui lòng nhập đúng định dạng email",
+        "PREV": "Trước",
+        "NEXT": "Sau",
+        "TEXT_YOUR_QUESTION": "Tìm câu hỏi",
+        "MORE": "Xem Thêm "
+    },
+    "CONTACT": {
+        "IF_ANY_QUESTION": "Nếu bạn có thắc mắc hoặc muốn biết thêm thông tin, Hosiana sẽ giúp bạn tìm thấy bất động sản mà bạn cần",
+        "ENTER_INFOMATION": "Vui lòng điền thông tin bên cạnh để chúng tôi hỗ trợ bạn một cách nhanh nhất.",
+        "CONTACT_SALE_SUPPORT": "Nếu bạn quan tâm khi trờ thành khách hàng của Hosiana và có bất kì câu hỏi nào, vui lòng liên hệ tư vấn viên để được hỗ trợ (Yêu cầu đăng nhập để được hỗ trợ).",
+        "COMPANY_AND_CONTACT_INFOMATION": "Thông tin công ty và cá nhân",
+        "FIRST_NAME": "Tên",
+        "LAST_NAME": "Họ",
+        "COMPANY_NAME": "Tên công ty",
+        "COMPANY_WEBSITE": "Trang web công ty",
+        "TELEPHONE": "Điện thoại",
+        "COMMENT_OR_DETAIL": "Câu hỏi hoặc bình luận",
+        "DISCRIBE_AND_MESSAGE": "Mô tả sản phẩm hoặc để lại câu hỏi"
+    },
+    "about_us": {
+        "title": "HOSIANA LỰA CHỌN BẤT ĐỘNG SẢN NHƯ THẾ NÀO?",
+        "sub_title": "Chúng tôi còn hơn cả một sàn giao dịch",
+        "different_title": "Điều gì làm chúng tôi trở nên khác biệt?",
+        "different_desc": "Chúng tôi tin tưởng vào một cộng đồng gồm những chuyên gia có kiến thức chuyên môn về thị trường, sử dụng những hiểu biết sâu sắc của họ để cung cấp cho những người tìm kiếm tài sản một dịch vụ với chất lượng hàng đầu. Niềm tin này thúc đẩy chúng tôi sáng tạo nên Hosiana, bằng việc kết hợp 15 năm kinh nghiệm trong bất động sản với công nghệ hiện đại để cung cấp một nền tảng an toàn, hoạt động và đáp ứng yêu cầu thị trường cho nhu cầu bất động sản của bạn.</br> Mối quan hệ với đại lý được xây dựng dựa trên sự tin tưởng rằng sở thích của bạn sẽ được bảo vệ và nâng cao qua việc tối đa hóa chức năng và sự chăm sóc tận tình. Do đó, \"hệ thống kiểm đại lý\" chặt chẽ của Hosiana loại bỏ tất cả những gì không chắc chắn trong tìm kiếm của bạn và đảm bảo bạn có được đại diện phù hợp cho nhu cầu bất động sản của mình.",
+        "property": "Chỉ những đại lý được đăng ký hợp pháp và có thời gian hoạt động được kiểm chứng mới được thể hiện trên hosiana.vn Một chính sách kiểm soát chất lượng nghiêm ngặt đảm bảo chỉ có các đại lý hợp lệ được đăng tin, nhờ vậy cũng cố tính uy tín của nền tảng thông tin này.",
+        "agent_title": "Lợi ích gì khi sử dụng dịch vụ từ các đại lý/nhà môi giới",
+        "agent_sub_title": "Mua bất động sản là thương vụ đầy khéo léo",
+        "agent_desc_1": "Chuyên viên môi giới bất động sản cung cấp đại diện cả ngày lẫn đêm.",
+        "agent_desc_2": "Các nhà môi giới bất động sản có một sự hiểu biết sâu sắc đối với các thị trường địa phương. Họ tận dụng kiến thức này để xác định một định giá thực tế cho các tài sản, bao gồm cả giá trị tương lai của nó.",
+        "agent_desc_3": "Các nhà môi giới bất động sản sử dụng kinh nghiệm của họ để đạt được giá tối ưu của các tài sản đó.",
+        "agent_desc_4": "Họ xử lý các cuộc đàm phán khó khăn bằng sự lãnh đạm chuyên nghiệp, nhờ vậy mà có thể đạt được những kết quả tốt hơn từ các cuộc đàm phán khó khăn đó với người bán.",
+
+        "mission_title": "Trên hosiana.vn, mỗi người tham gia đều có một nhiệm vụ cụ thể",
+        "mission_desc": "Bộ phận quản lý dự án, đại lý/nhà môi giới và chủ tài sản có vai trò của riêng mình.Tất cả đều đóng vai trò quan trọng trong hệ thống vận hành này.",
+        "find_your_home": "Tìm ngôi nhà của bạn"
+    },
+    "error": {
+        "forgot_successful": "Thành công! Vui lòng kiểm tra thư để đặt lại mật khẩu",
+        "forgot_failure": "Thất bại. Vui lòng kiểm tra lại email trên!",
+        "errorMsg": "Mật khẩu hoặc email không đúng."
+    },
+    "form" : {
+        "forgot_password": "Quên mật khẩu",
+        "forgot_description": "Vui lòng nhập email để đặt lại mật khẩu.",
+        "send": "Gửi",
+        "remembered_password": "Tôi nhớ mật khẩu",
+        "login": "Đăng nhập",
+        "reset_password": "Đặt lại mật khẩu",
+        "type_new_password": "Nhập mật khẩu mới",
+        "retype_new_password": "Nhập lại mật khẩu "
+    }
+}

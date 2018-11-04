@@ -1,0 +1,25 @@
+.noUi-handle-lower {
+    display: none
+}
+
+.noUi-horizontal {
+    height: 8px;
+}
+
+.noUi-horizontal .noUi-handle {
+    margin-top: -4px;
+}
+
+.slider.slider-info .noUi-handle {
+    background-color: $second-primary-color;
+}
+
+.slider.slider-info .noUi-connect,
+.slider.slider-info.noUi-connect {
+    background-color: $second-primary-color;
+}
+
+
+.noUi-horizontal .noUi-tooltip {
+    bottom: -30px;
+}
